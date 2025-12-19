@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/mapview.o
+debug/searchengine.o
+debug/router.o
+debug/tilemanager.o
+debug/moc_mainwindow.o
+debug/moc_mapview.o
+debug/moc_searchengine.o
+debug/moc_router.o
+debug/moc_tilemanager.o

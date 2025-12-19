@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/mapview.o
+release/searchengine.o
+release/router.o
+release/tilemanager.o
+release/moc_mainwindow.o
+release/moc_mapview.o
+release/moc_searchengine.o
+release/moc_router.o
+release/moc_tilemanager.o
